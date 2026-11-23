@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Catálogo de Filmes",
+    "slug": "catalogo-filmes",
+    "version": "1.0.0",
+    "scheme": "catalogofilmes",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router", "expo-secure-store"],
+    "experiments": { "typedRoutes": true }
+  }
+}
